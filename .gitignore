@@ -1,0 +1,8 @@
+models/
+lm/
+data/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+*.h5
