@@ -1,0 +1,9 @@
+typer
+datasets
+torch
+tqdm
+soundfile
+transformers
+pyctcdecode
+nemo_toolkit
+neutts
